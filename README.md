@@ -32,7 +32,7 @@ A profile archive featuring dynamic themes, Spotify activity, galleries, search,
 
 **Status:** Version 1.0 in development
 
-### JourneyTCG
+### TCG Store Locator (Name is pending)
 
 A future hub for trading card game players, collections, communities, and tournament-related information.
 
