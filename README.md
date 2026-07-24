@@ -5,12 +5,17 @@ I'm a Computer Science student who's interested in full-stack software developme
 I have lot of interests and you'll likely see it in my projects 
 
 Such as:
+
 Video games - Tekken, Smash Ultimate, Minecraft, Roblox, and more
+
 Shows - Jojo's Bizarre Adventure, Kamen Rider, and more
+
 Hobbies - Coding (duh), gym, and maybe finance? 
 
 Contact me!
+
 Email: Justinchoi62@gmail.com
+
 Discord: justgamer6472
 
 ## 🚀 Current Project
