@@ -14,8 +14,6 @@ Hobbies - Coding (duh), gym, and maybe finance?
 
 Contact me!
 
-Email: Justinchoi62@gmail.com
-
 Discord: justgamer6472
 
 ## 🚀 Current Project
